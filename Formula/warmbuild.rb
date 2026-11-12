@@ -1,10 +1,10 @@
-# Written by scripts/publish-action.sh for each release (1.12.0 and 969d20034cf71b8e5e845ba20e1f3304f7cf36386eb9b5c5af67985e093dc906 filled in).
+# Written by scripts/publish-action.sh for each release (1.12.1 and 1a294a0a9663df126332211dad8047e3861a9ed4bf01d40c2addec19514315f4 filled in).
 class Warmbuild < Formula
   desc "Xcode compilation cache: local builds reuse what CI already compiled"
   homepage "https://github.com/mikitahimpel/warmbuild-action"
-  url "https://github.com/mikitahimpel/warmbuild-action/releases/download/v1.12.0/warmbuild.mjs"
-  version "1.12.0"
-  sha256 "969d20034cf71b8e5e845ba20e1f3304f7cf36386eb9b5c5af67985e093dc906"
+  url "https://github.com/mikitahimpel/warmbuild-action/releases/download/v1.12.1/warmbuild.mjs"
+  version "1.12.1"
+  sha256 "1a294a0a9663df126332211dad8047e3861a9ed4bf01d40c2addec19514315f4"
   license "MIT"
 
   depends_on :macos
