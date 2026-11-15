@@ -1,13 +1,13 @@
 # Homebrew tap
 
 ```sh
-brew install mikitahimpel/tap/warmbuild
+brew install warmbuild/tap/warmbuild
 ```
 
 or in a `Brewfile`:
 
 ```ruby
-tap "mikitahimpel/tap"
+tap "warmbuild/tap"
 brew "warmbuild"
 ```
 
